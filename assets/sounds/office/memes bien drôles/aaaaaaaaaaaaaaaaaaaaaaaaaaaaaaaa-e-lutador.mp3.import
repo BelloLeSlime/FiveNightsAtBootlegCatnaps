@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bc1h3b5k6hlhe"
+path="res://.godot/imported/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-e-lutador.mp3-871d13e9e6f874e759f37937f9b5b768.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds/office/memes bien drôles/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-e-lutador.mp3"
+dest_files=["res://.godot/imported/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-e-lutador.mp3-871d13e9e6f874e759f37937f9b5b768.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

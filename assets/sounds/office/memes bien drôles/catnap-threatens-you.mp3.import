@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://buqtgnwi15f0l"
+path="res://.godot/imported/catnap-threatens-you.mp3-ce7bc68cc6cd01b36839a7eb6407684f.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds/office/memes bien drôles/catnap-threatens-you.mp3"
+dest_files=["res://.godot/imported/catnap-threatens-you.mp3-ce7bc68cc6cd01b36839a7eb6407684f.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

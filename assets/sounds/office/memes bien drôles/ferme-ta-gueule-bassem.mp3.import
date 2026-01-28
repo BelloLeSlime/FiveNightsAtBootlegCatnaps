@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://ds5wte1jggcyx"
+path="res://.godot/imported/ferme-ta-gueule-bassem.mp3-f8cc2eddd05cbfb64df612a9e4a59133.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds/office/memes bien drôles/ferme-ta-gueule-bassem.mp3"
+dest_files=["res://.godot/imported/ferme-ta-gueule-bassem.mp3-f8cc2eddd05cbfb64df612a9e4a59133.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dyhly236dstu5"
+path="res://.godot/imported/ta-gueule_6iavH8Q.mp3-f640c6b8180a204dc26c4016972edec9.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds/office/memes bien drôles/ta-gueule_6iavH8Q.mp3"
+dest_files=["res://.godot/imported/ta-gueule_6iavH8Q.mp3-f640c6b8180a204dc26c4016972edec9.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

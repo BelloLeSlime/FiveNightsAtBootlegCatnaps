@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://pe2h2glg3nkc"
+path="res://.godot/imported/suicide-mickey-laugh.mp3-1f63fc7b400f5f68cbf5a7297dbc0197.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds/office/memes bien drôles/suicide-mickey-laugh.mp3"
+dest_files=["res://.godot/imported/suicide-mickey-laugh.mp3-1f63fc7b400f5f68cbf5a7297dbc0197.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

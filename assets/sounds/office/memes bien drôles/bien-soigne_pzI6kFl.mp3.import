@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://chgpypyd2toye"
+path="res://.godot/imported/bien-soigne_pzI6kFl.mp3-bc459287413a9cdff5a86544bd5371f9.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds/office/memes bien drôles/bien-soigne_pzI6kFl.mp3"
+dest_files=["res://.godot/imported/bien-soigne_pzI6kFl.mp3-bc459287413a9cdff5a86544bd5371f9.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

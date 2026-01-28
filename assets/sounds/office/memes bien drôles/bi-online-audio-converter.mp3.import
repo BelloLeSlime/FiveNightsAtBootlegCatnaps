@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://ce7axcsne5mun"
+path="res://.godot/imported/bi-online-audio-converter.mp3-b8d51418f8b2e01563c004cd4b7fbe7f.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds/office/memes bien drôles/bi-online-audio-converter.mp3"
+dest_files=["res://.godot/imported/bi-online-audio-converter.mp3-b8d51418f8b2e01563c004cd4b7fbe7f.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

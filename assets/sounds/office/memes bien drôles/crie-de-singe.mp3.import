@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dw640woqown0"
+path="res://.godot/imported/crie-de-singe.mp3-4bd94882c9d953e8531001673a6c7935.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds/office/memes bien drôles/crie-de-singe.mp3"
+dest_files=["res://.godot/imported/crie-de-singe.mp3-4bd94882c9d953e8531001673a6c7935.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

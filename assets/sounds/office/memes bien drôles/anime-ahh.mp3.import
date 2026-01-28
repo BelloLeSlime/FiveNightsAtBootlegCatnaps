@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cckknroxl5vp1"
+path="res://.godot/imported/anime-ahh.mp3-f244883c04b9029000fe3bacb2256029.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds/office/memes bien drôles/anime-ahh.mp3"
+dest_files=["res://.godot/imported/anime-ahh.mp3-f244883c04b9029000fe3bacb2256029.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

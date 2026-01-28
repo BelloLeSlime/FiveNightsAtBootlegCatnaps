@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c8rta0hsq52q8"
+path="res://.godot/imported/gopgopgop.mp3-4232f207e988b45fe5ca259ce33db4df.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds/office/memes bien drôles/gopgopgop.mp3"
+dest_files=["res://.godot/imported/gopgopgop.mp3-4232f207e988b45fe5ca259ce33db4df.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

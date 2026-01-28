@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dlefbbtn66j73"
+path="res://.godot/imported/skeleton-with-shield.mp3-6d208525c22f148f8734f3cf37ac20db.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds/office/memes bien drôles/skeleton-with-shield.mp3"
+dest_files=["res://.godot/imported/skeleton-with-shield.mp3-6d208525c22f148f8734f3cf37ac20db.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

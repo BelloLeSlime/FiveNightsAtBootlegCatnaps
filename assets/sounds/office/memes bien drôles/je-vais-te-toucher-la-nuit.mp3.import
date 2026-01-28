@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://ic0pfghyuo66"
+path="res://.godot/imported/je-vais-te-toucher-la-nuit.mp3-bc0e49493740a7fc506d3b3227ff027e.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds/office/memes bien drôles/je-vais-te-toucher-la-nuit.mp3"
+dest_files=["res://.godot/imported/je-vais-te-toucher-la-nuit.mp3-bc0e49493740a7fc506d3b3227ff027e.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

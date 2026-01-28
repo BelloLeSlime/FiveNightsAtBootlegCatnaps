@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dcrnk3wcrhx6"
+path="res://.godot/imported/hugooo.mp3-bfa7fd7aa2939b063519e939e59c3fdf.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds/office/memes bien drôles/hugooo.mp3"
+dest_files=["res://.godot/imported/hugooo.mp3-bfa7fd7aa2939b063519e939e59c3fdf.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://co78jst5y4wgy"
+path="res://.godot/imported/oui-je-suis-raciste.mp3-f235fc9e470f7fa40c0f5be2f6d01569.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds/office/memes bien drôles/oui-je-suis-raciste.mp3"
+dest_files=["res://.godot/imported/oui-je-suis-raciste.mp3-f235fc9e470f7fa40c0f5be2f6d01569.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

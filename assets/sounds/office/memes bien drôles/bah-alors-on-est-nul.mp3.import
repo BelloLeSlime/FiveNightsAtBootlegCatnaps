@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dqtaipjua04b4"
+path="res://.godot/imported/bah-alors-on-est-nul.mp3-0d12b8a5b1fab2315cc37352d7382222.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds/office/memes bien drôles/bah-alors-on-est-nul.mp3"
+dest_files=["res://.godot/imported/bah-alors-on-est-nul.mp3-0d12b8a5b1fab2315cc37352d7382222.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

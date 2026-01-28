@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://3b2bt5dt8iua"
+path="res://.godot/imported/epic.mp3-1273c5dfd209d0e9e5c076a4653a1898.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds/office/memes bien drôles/epic.mp3"
+dest_files=["res://.godot/imported/epic.mp3-1273c5dfd209d0e9e5c076a4653a1898.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

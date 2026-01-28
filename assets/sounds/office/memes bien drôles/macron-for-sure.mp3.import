@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://ds21ige87xr43"
+path="res://.godot/imported/macron-for-sure.mp3-67ef4d5e38c78ecea53a6e4231bf76cb.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds/office/memes bien drôles/macron-for-sure.mp3"
+dest_files=["res://.godot/imported/macron-for-sure.mp3-67ef4d5e38c78ecea53a6e4231bf76cb.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

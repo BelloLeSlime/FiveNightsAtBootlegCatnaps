@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://dubfbm4fctmpj"]
+
+[ext_resource type="PackedScene" uid="uid://vh0svs22ssl5" path="res://scenes/office.tscn" id="1_o5qli"]
+
+[node name="Main" type="Node2D"]
+
+[node name="Office" parent="." instance=ExtResource("1_o5qli")]

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://djvsfdwxdrksi"
+path="res://.godot/imported/fahhhhhhhhhhhhhh.mp3-e3da16a5f9e65894ede14348cbdd4bda.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds/office/memes bien drôles/fahhhhhhhhhhhhhh.mp3"
+dest_files=["res://.godot/imported/fahhhhhhhhhhhhhh.mp3-e3da16a5f9e65894ede14348cbdd4bda.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
