@@ -47,3 +47,8 @@ func _on_5_pressed() -> void:
 	office.cam = "5"
 	sfx.stream = load("res://assets/sounds/office/camera.wav")
 	sfx.play()
+
+func _on_6_pressed() -> void:
+	office.cam = "6"
+	sfx.stream = load("res://assets/sounds/office/camera.wav")
+	sfx.play()

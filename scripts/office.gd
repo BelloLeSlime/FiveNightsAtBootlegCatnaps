@@ -6,7 +6,7 @@ var office_x = 270/2
 var on_cameras = false
 var prev_in_bottom = false
 
-var cam = "1c"
+var cam = "1a"
 
 var where = "office"
 

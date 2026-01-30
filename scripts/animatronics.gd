@@ -1,7 +1,7 @@
 extends Node2D
 
 var bootleg_catnap = {
-	"cam": "1b",
+	"cam": "6",
 	"level": 0,
 	"path": {
 		"1a": ["1b"],
@@ -16,12 +16,12 @@ var bootleg_catnap = {
 }
 
 var catnap17 = {
-	"cam": "1a",
+	"cam": "3",
 	"level": 0,
 }
 
 var furry_catnap = {
-	"cam": "1a",
+	"cam": "4b",
 	"level": 0,
 }
 
@@ -45,6 +45,6 @@ var baba_chops = {
 }
 
 var dogday = {
-	"cam": "1b",
+	"cam": "4a",
 	"level": 20,
 }

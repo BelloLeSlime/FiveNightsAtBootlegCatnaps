@@ -1,4 +1,4 @@
-[gd_scene load_steps=168 format=3 uid="uid://vh0svs22ssl5"]
+[gd_scene load_steps=188 format=3 uid="uid://vh0svs22ssl5"]
 
 [ext_resource type="Texture2D" uid="uid://dj5muce7rmsdb" path="res://assets/images/office/default.png" id="1_3e7dm"]
 [ext_resource type="Script" uid="uid://leyv5mimds2j" path="res://scripts/office.gd" id="1_n0wcf"]
@@ -32,6 +32,7 @@
 [ext_resource type="Texture2D" uid="uid://dkdtepueprba0" path="res://assets/images/cameras/5/oh wait thats not default if there are no states but layers.png" id="15_ld7wk"]
 [ext_resource type="Texture2D" uid="uid://deu6np1fbene1" path="res://assets/images/cameras/5/SPACE THEO.png" id="16_5uk4i"]
 [ext_resource type="Texture2D" uid="uid://8ucqxojrbr1" path="res://assets/images/misc/static.png" id="16_jp1e5"]
+[ext_resource type="Texture2D" uid="uid://bdxgah5sdrw1s" path="res://assets/images/cameras/6/default.png" id="16_qkc7n"]
 [ext_resource type="Texture2D" uid="uid://da8a5e1ub1bq5" path="res://assets/images/cameras/1b/bootleg_frame0.png" id="16_skov3"]
 [ext_resource type="Texture2D" uid="uid://iv2lm4fnwp07" path="res://assets/images/cameras/2b/dogday.png" id="16_y13nk"]
 [ext_resource type="Texture2D" uid="uid://cj8hv4bx0gfl7" path="res://assets/images/misc/camera_overlay.png" id="17_kviqm"]
@@ -66,13 +67,31 @@
 [ext_resource type="Script" uid="uid://b6ep8gnnu4iil" path="res://scripts/animatronics.gd" id="42_bkq84"]
 [ext_resource type="Texture2D" uid="uid://bhxmphp4xbl4a" path="res://assets/images/cameras/2b/bloody_blood.png" id="42_f3wdx"]
 [ext_resource type="Texture2D" uid="uid://cqvgkkqd3cekl" path="res://assets/images/cameras/5/SHUT THE FUCK UUUUUUUUUUUUUUUUUUUP.png" id="44_db58c"]
+[ext_resource type="Texture2D" uid="uid://blsv8x7v8begg" path="res://assets/images/cameras/6/0.png" id="46_sedfa"]
+[ext_resource type="Texture2D" uid="uid://dcv61hitvw5mg" path="res://assets/images/cameras/6/1.png" id="47_k32yy"]
+[ext_resource type="Texture2D" uid="uid://brr3kxi1wib0k" path="res://assets/images/cameras/6/2.png" id="48_jig3m"]
+[ext_resource type="Texture2D" uid="uid://blmr7ciunew5r" path="res://assets/images/cameras/6/3.png" id="49_47h6s"]
+[ext_resource type="Texture2D" uid="uid://c514ts85fxx56" path="res://assets/images/cameras/6/4.png" id="50_bqedr"]
+[ext_resource type="Texture2D" uid="uid://cn4on2akod0vh" path="res://assets/images/cameras/6/5.png" id="51_h76ue"]
 [ext_resource type="Texture2D" uid="uid://b2pwo5n5y2c0y" path="res://assets/images/cameras/3/kuddle.png" id="52_4yxas"]
+[ext_resource type="Texture2D" uid="uid://c22enrsluqkjf" path="res://assets/images/cameras/6/6.png" id="52_puojg"]
+[ext_resource type="Texture2D" uid="uid://bfsho6kk646e2" path="res://assets/images/cameras/6/7.png" id="53_3vx4u"]
 [ext_resource type="Texture2D" uid="uid://b5y13ngd7x47v" path="res://assets/images/cameras/4a/kuddle.png" id="53_os6x3"]
 [ext_resource type="Texture2D" uid="uid://vrscjfvoprfo" path="res://assets/images/cameras/4b/kuddle_kitty.png" id="54_3gdh0"]
+[ext_resource type="Texture2D" uid="uid://drq47nis1hdk2" path="res://assets/images/cameras/6/8.png" id="54_v6rod"]
 [ext_resource type="Texture2D" uid="uid://djn483287ck0h" path="res://assets/images/cameras/5/aaaaaaaw hes cute =3.png" id="55_4bak3"]
+[ext_resource type="Texture2D" uid="uid://c76uv4oq7b0b1" path="res://assets/images/cameras/6/9.png" id="55_mbyad"]
+[ext_resource type="Texture2D" uid="uid://cbbvse135r4dt" path="res://assets/images/cameras/6/10.png" id="56_rcyfd"]
+[ext_resource type="Texture2D" uid="uid://d4d76kxl0l02o" path="res://assets/images/cameras/6/11.png" id="57_875dy"]
+[ext_resource type="Texture2D" uid="uid://r7j42kbng2ml" path="res://assets/images/cameras/6/12.png" id="58_dpic4"]
+[ext_resource type="Texture2D" uid="uid://delnbxocmw4oi" path="res://assets/images/cameras/6/13.png" id="59_w5bdp"]
+[ext_resource type="Texture2D" uid="uid://b8a8yaygxkk3k" path="res://assets/images/cameras/6/14.png" id="60_d352y"]
+[ext_resource type="Texture2D" uid="uid://20iu1r5gmhi" path="res://assets/images/cameras/6/15.png" id="61_3olkc"]
 [ext_resource type="Texture2D" uid="uid://b3x57kprpq2ko" path="res://assets/images/cameras/3/blood.png" id="61_p5s8i"]
+[ext_resource type="Texture2D" uid="uid://crpur3x3pqgyp" path="res://assets/images/cameras/6/16.png" id="62_4hkba"]
 [ext_resource type="Texture2D" uid="uid://xksqw1e2oata" path="res://assets/images/cameras/4a/blood.png" id="62_qkc7n"]
 [ext_resource type="Texture2D" uid="uid://cnevvamlohen5" path="res://assets/images/cameras/4b/blood.png" id="63_sedfa"]
+[ext_resource type="Texture2D" uid="uid://by66hmd266y66" path="res://assets/images/cameras/6/17.png" id="63_soevi"]
 [ext_resource type="Texture2D" uid="uid://clhkwnq5vuflj" path="res://assets/images/cameras/5/ass gore.png" id="64_k32yy"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_hub07"]
@@ -413,6 +432,14 @@ animations = [{
 "loop": true,
 "name": &"5",
 "speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("16_qkc7n")
+}],
+"loop": true,
+"name": &"6",
+"speed": 5.0
 }]
 
 [sub_resource type="SpriteFrames" id="SpriteFrames_t1nwb"]
@@ -663,6 +690,65 @@ animations = [{
 "loop": true,
 "name": &"5",
 "speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("46_sedfa")
+}, {
+"duration": 1.0,
+"texture": ExtResource("47_k32yy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("48_jig3m")
+}, {
+"duration": 1.0,
+"texture": ExtResource("49_47h6s")
+}, {
+"duration": 1.0,
+"texture": ExtResource("50_bqedr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("51_h76ue")
+}, {
+"duration": 1.0,
+"texture": ExtResource("52_puojg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("53_3vx4u")
+}, {
+"duration": 1.0,
+"texture": ExtResource("54_v6rod")
+}, {
+"duration": 1.0,
+"texture": ExtResource("55_mbyad")
+}, {
+"duration": 1.0,
+"texture": ExtResource("56_rcyfd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("57_875dy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("58_dpic4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("59_w5bdp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("60_d352y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("61_3olkc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("62_4hkba")
+}, {
+"duration": 1.0,
+"texture": ExtResource("63_soevi")
+}],
+"loop": true,
+"name": &"6",
+"speed": 30.0
 }]
 
 [sub_resource type="SpriteFrames" id="SpriteFrames_7i2nt"]
@@ -984,6 +1070,10 @@ region = Rect2(1981, 0, 283, 160)
 atlas = ExtResource("38_sjdia")
 region = Rect2(2264, 0, 283, 160)
 
+[sub_resource type="AtlasTexture" id="AtlasTexture_ktwjf"]
+atlas = ExtResource("38_sjdia")
+region = Rect2(2547, 0, 283, 160)
+
 [sub_resource type="AtlasTexture" id="AtlasTexture_bkq84"]
 atlas = ExtResource("7_2knxt")
 region = Rect2(2566, 1446, 1280, 720)
@@ -1241,9 +1331,9 @@ stream = ExtResource("6_hub07")
 [node name="View" type="Node2D" parent="Camera"]
 
 [node name="Room" type="AnimatedSprite2D" parent="Camera/View"]
-scale = Vector2(0.9000001, 0.90000004)
+scale = Vector2(1.1991667, 1.2)
 sprite_frames = SubResource("SpriteFrames_alkg7")
-animation = &"5"
+animation = &"6"
 centered = false
 
 [node name="Theo" type="AnimatedSprite2D" parent="Camera/View"]
@@ -1271,9 +1361,10 @@ animation = &"5"
 centered = false
 
 [node name="BootlegCatnap" type="AnimatedSprite2D" parent="Camera/View"]
-scale = Vector2(0.9000001, 0.90000004)
+scale = Vector2(1.1981483, 1.1981481)
 sprite_frames = SubResource("SpriteFrames_uwvu6")
-animation = &"5"
+animation = &"6"
+frame_progress = 0.44163266
 centered = false
 
 [node name="Boyfriend" type="AnimatedSprite2D" parent="Camera/View"]
@@ -1308,7 +1399,7 @@ material = SubResource("ShaderMaterial_kviqm")
 scale = Vector2(0.90138894, 0.9013889)
 sprite_frames = SubResource("SpriteFrames_wx8ly")
 autoplay = "default"
-frame_progress = 0.6023003
+frame_progress = 0.23384045
 centered = false
 
 [node name="Overlay" type="Sprite2D" parent="Camera"]
@@ -1431,6 +1522,17 @@ flat = true
 icon_alignment = 1
 expand_icon = true
 
+[node name="6" type="Button" parent="Camera/Buttons"]
+offset_left = 1063.0
+offset_top = 467.0
+offset_right = 1125.1428
+offset_bottom = 503.0
+focus_mode = 0
+icon = SubResource("AtlasTexture_ktwjf")
+flat = true
+icon_alignment = 1
+expand_icon = true
+
 [node name="UI" type="CanvasLayer" parent="."]
 
 [node name="CameraArrow" type="Sprite2D" parent="UI"]
@@ -1463,4 +1565,5 @@ script = ExtResource("42_bkq84")
 [connection signal="pressed" from="Camera/Buttons/4A" to="Camera/Buttons" method="_on_4a_pressed"]
 [connection signal="pressed" from="Camera/Buttons/4B" to="Camera/Buttons" method="_on_4b_pressed"]
 [connection signal="pressed" from="Camera/Buttons/5" to="Camera/Buttons" method="_on_5_pressed"]
+[connection signal="pressed" from="Camera/Buttons/6" to="Camera/Buttons" method="_on_6_pressed"]
 [connection signal="animation_finished" from="UI/CameraAnimation" to="." method="_on_camera_animation_animation_finished"]
